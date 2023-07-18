@@ -166,13 +166,13 @@ body {
     color: #dc2626;
 }
 
-@media screen and (max-widht: 1024) {
+@media screen and (max-width: 1024) {
     #img {
         display: none;
     }
 }
 
-@media screen and (max-widht: 500px) {
+@media screen and (max-width: 500px) {
     #container {
         width: 100%;
         height: 100%;
