@@ -36,4 +36,4 @@ $ git clone <https://github.com/FelipeKreulich/calc-imc>
 
 # Para rodar a Aplicação, abra o arquivo index.html com o Live Server
 
-# Para ver a Aplicação Final acesse <https://codingeverday.site>
+# Para ver a Aplicação Final acesse <https://calc-imc-js.vercel.app>
